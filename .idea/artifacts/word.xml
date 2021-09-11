@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="word">
+    <output-path>$PROJECT_DIR$/out/artifacts/word</output-path>
+    <root id="archive" name="word.jar">
+      <element id="module-output" name="Spark餐饮智能推荐" />
+    </root>
+  </artifact>
+</component>
